@@ -1,5 +1,9 @@
 ### Hi, I'm Viktor 👋
 
+- Currently studying
+- Currently working on
+  - Restructuring backend of Gym Scheduling web-app to use .Net instead of NodeJS/Express.
+  - Rewiring CR10s to be more modular
 <!--
 **Valexanderman/Valexanderman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
