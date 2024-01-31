@@ -2,6 +2,7 @@
 
 - Currently studying
 - Currently working on
+  - RTOS Car using ESP-IDF framework in C++.  
   - Restructuring backend of Gym Scheduling web-app to use .Net instead of NodeJS/Express.
   - Rewiring CR10s to be more modular
 <!--
